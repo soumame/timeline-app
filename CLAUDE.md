@@ -36,6 +36,6 @@ This is a React + TypeScript + Vite application with the following key character
 - Configured for modern React patterns with hooks
 - TypeScript strict mode enabled with `verbatimModuleSyntax`
 - ESLint enforces React hooks rules and component refresh patterns
-- Tailwind CSS v4 with PostCSS plugin for styling
+- Tailwind CSS v3 with PostCSS for styling
 - AWS SDK v3 for S3 operations with signed URLs
 - Images stored in S3 following `/lifelog/yyyy/mm/dd/yyyy-mm-dd-hhmmss.jpg` pattern
