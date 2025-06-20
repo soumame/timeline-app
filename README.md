@@ -1,4 +1,4 @@
-## timeline-app
+## timeline-app by claude code
 
 s3（または S3 互換のオブジェクトストレージ）を利用したマルチモーダルなタイムラインアプリ
 
